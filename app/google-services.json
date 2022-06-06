@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109478858791",
+    "project_id": "eldroid-fce26",
+    "storage_bucket": "eldroid-fce26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109478858791:android:09978bedf6fff2b18cbe02",
+        "android_client_info": {
+          "package_name": "com.example.lee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109478858791-4abu0emdpd9f1tfqpkof5teot6kkcqdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtelj4_YfnlKxYwQmdMC9OIpglj2EzDY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109478858791-4abu0emdpd9f1tfqpkof5teot6kkcqdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
